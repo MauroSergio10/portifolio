@@ -1,6 +1,6 @@
 # Portfólio de Mauro Sérgio
 
-Bem-vindo ao meu portfólio! Sou [Seu Nome], um desenvolvedor de software quem sempre busca criar soluções inovadoras e funcionais. Com uma sólida base em desenvolvimento full stack e experiência prática em projetos reais, estou sempre buscando novos desafios para aprimorar minhas habilidades.
+Bem-vindo ao meu portfólio! Sou Mauro Sérgio, um desenvolvedor de software quem sempre busca criar soluções inovadoras e funcionais. Com uma sólida base em desenvolvimento full stack e experiência prática em projetos reais, estou sempre buscando novos desafios para aprimorar minhas habilidades.
 
 ## Sobre Mim
 
